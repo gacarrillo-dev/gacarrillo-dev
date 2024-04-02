@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I'm currently a Software Engineering students at [New England Institute of Technology].(https://www.neit.edu/)
+- I'm currently a Software Engineering students at [New England Institute of Technology](https://www.neit.edu/).
 - 
 
 <!--
