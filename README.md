@@ -5,7 +5,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacarrillo-dev&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacarrillo-dev&show_icons=true&theme=codeSTACKr) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gacarrillo-dev&layout=compact&theme=codeSTACKr)
 
 <!--
 **gacarrillo-dev/gacarrillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
