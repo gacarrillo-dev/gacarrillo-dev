@@ -3,8 +3,6 @@
 
 - I'm currently a Software Engineering student at [New England Institute of Technology](https://www.neit.edu/).
 
----
-
 # My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacarrillo-dev&show_icons=true&theme=codeSTACKr) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gacarrillo-dev&layout=compact&theme=codeSTACKr)
