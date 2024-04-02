@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-- I'm currently a Software Engineering students at [New England Institute of Technology](https://www.neit.edu/).
+- I'm currently a Software Engineering student at [New England Institute of Technology](https://www.neit.edu/).
 - 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacarrillo-dev)](https://github.com/gacarrillo-dev/github-readme-stats)
 
 <!--
 **gacarrillo-dev/gacarrillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
